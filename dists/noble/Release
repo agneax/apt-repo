@@ -1,0 +1,23 @@
+Origin: AgneaX OS
+Label: AgneaX
+Suite: noble
+Codename: noble
+Date: Mon, 23 Nov 2026 16:42:31 UTC
+Architectures: amd64 all
+Components: main
+Description: Official AgneaX OS Software Repository
+MD5Sum:
+ d2affea2156148a5c40a3f88a4a32275 1423 main/binary-amd64/Packages
+ 915e15703719a7e469cb91ce460eb70c 701 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-all/Packages
+ 6c15b4d8567e53e17f3dbd0cfb0d0dba 29 main/binary-all/Packages.gz
+SHA1:
+ 39237cf2c9f00cc3abeeede01fc0b5b28678d4b5 1423 main/binary-amd64/Packages
+ 397b99b7971378bb270fc9c3a3d7d5591d6b3f4f 701 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-all/Packages
+ e6aeddcde7a3d2fd4ea5fd71f2504cda6109ae03 29 main/binary-all/Packages.gz
+SHA256:
+ 72b75f89adfd13f0326dd44969d96d640bb640c07cb28b1cb68c0145e72107e9 1423 main/binary-amd64/Packages
+ 82ee42378d95e89b0e3d02c89151f8d027bed2b7ad53c89f944281dbb0bdbcde 701 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-all/Packages
+ 49d1821455bb2c41ce5b0c9dea62fed1d828440af669e391290555ff3d79e311 29 main/binary-all/Packages.gz

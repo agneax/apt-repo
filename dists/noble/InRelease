@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: AgneaX OS
+Label: AgneaX
+Suite: noble
+Codename: noble
+Date: Mon, 23 Nov 2026 16:42:31 UTC
+Architectures: amd64 all
+Components: main
+Description: Official AgneaX OS Software Repository
+MD5Sum:
+ d2affea2156148a5c40a3f88a4a32275 1423 main/binary-amd64/Packages
+ 915e15703719a7e469cb91ce460eb70c 701 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-all/Packages
+ 6c15b4d8567e53e17f3dbd0cfb0d0dba 29 main/binary-all/Packages.gz
+SHA1:
+ 39237cf2c9f00cc3abeeede01fc0b5b28678d4b5 1423 main/binary-amd64/Packages
+ 397b99b7971378bb270fc9c3a3d7d5591d6b3f4f 701 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-all/Packages
+ e6aeddcde7a3d2fd4ea5fd71f2504cda6109ae03 29 main/binary-all/Packages.gz
+SHA256:
+ 72b75f89adfd13f0326dd44969d96d640bb640c07cb28b1cb68c0145e72107e9 1423 main/binary-amd64/Packages
+ 82ee42378d95e89b0e3d02c89151f8d027bed2b7ad53c89f944281dbb0bdbcde 701 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-all/Packages
+ 49d1821455bb2c41ce5b0c9dea62fed1d828440af669e391290555ff3d79e311 29 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJHBAEBCgAxFiEENrMlBZtZvphxTAUdW5uQjwpm1kcFAmsEbPcTHGFyY2hpdmVA
+YWduZWF4Lm9yZwAKCRBbm5CPCmbWR1HLD/0drXGwDqSGkaa8wUY7Sr0TUVcinrw0
+T9OBu78qBa3Vb0j5q0WZ3X8Y9SrbAvyOxF7JteT29mvQhrjxt35JWlhBGwYBbJbN
+RKvOeBifbGqNtl9I4pI+F9Exsy1rtPslRRKfFZGhD1OG77+0DyWOLpozFMAz7hgN
+ye8pzF1KD/Yo4VkPgzDuRN++Cc61Ew0DllUOQkPs8rMOKhdARZYEHPKCfW5a5PR/
+LYiDu2oZ1FvrFZqHL4kqW2ppiibiT51qKSf2imUgrDNC7mClBXo2+Of18dogdokk
+abMUPW31OKreCVKZx7dx1p4A0raQxpyVfcv2HDV3MeZWTG/Z6dWrdBPXVc/j6rUQ
+729woO/+ZVAEvz/NM+eGgrGovQ5eSvY7e6e9VZUrI0h4EruZZ3ohvRYJtBcUWpIQ
+YVxjIGTN6482k0Q6IEukzgVMc66lDbwmJ+Or2ty2+mNtzzfBwUWA4UI0fABXP7An
+SO5RBDLwt5zsIHhdwMyzmHfJ3w8TIUCK9yHPBq+9tMH/jtNVm0LmYopLk5IR5VVT
+vTI5gYMuv7sJKIHNVJNbyaG7kFl+CfBqy+/TLpuZUhC27CiI+pXYAclV6oDRGuFG
+CidpM32nV2Bco+4NoxVMVavu6RDrq5FnIzOjUsNiuzZDxZb1HwhF2LxUaM0YW9GA
+BkxvKhv8EC3Jqg==
+=u2Ky
+-----END PGP SIGNATURE-----
